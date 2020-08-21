@@ -15,7 +15,7 @@ ListView l;
     int ImageName[] = {
             R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,
             R.drawable.ic_launcher_foreground, R.drawable.ic_launcher_foreground, R.drawable.ic_launcher_foreground,
-            R.drawable.ic_launcher_background, R.drawable.ic_launcher_background
+            R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground
     };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
