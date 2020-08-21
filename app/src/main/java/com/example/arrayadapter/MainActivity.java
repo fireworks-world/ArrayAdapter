@@ -14,8 +14,8 @@ ListView l;
             "ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN"};
     int ImageName[] = {
             R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,
-            R.drawable.ic_launcher_foreground, R.drawable.ic_launcher_foreground, R.drawable.ic_launcher_foreground,
-            R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground
+            R.drawable.ic_launcher_foreground, R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground,
+            R.drawable.ic_launcher_background
     };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
